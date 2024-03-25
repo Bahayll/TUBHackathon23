@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703335297 source:c:\users\comu\desktop\soru7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
